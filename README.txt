@@ -1,1 +1,3 @@
 Halo, nama Saya Adipati Caesar Ibanez dengan NIM E1E122084. Ini praktik GitHub push and pull mata kuliah Sistem Paralel. Mohon maaf kalau isi repository ini berantakan, karena yang paralel bukan cuma sistemnya, tapi juga tugas kuliah, beban hidup, dan cicilan yang datang bersamaan.
+
+Jurusan Teknik Informatika
